@@ -19,7 +19,7 @@
 Tu desafío es construir esta página web con ayuda del
 framework de CSS Bootstrap y lograr que se parezca lo más posible al diseño.
 
-Los usuarios deberían ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo.
+Los usuarios deberan de ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo.
 
 ## Herramientas
 
