@@ -21,6 +21,10 @@ framework de CSS Bootstrap y lograr que se parezca lo más posible al diseño.
 
 Los usuarios deberan de ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo.
 
+Todos los recursos que necesitas estaran en la carpeta Recursos.
+
+Start coding!
+
 ## Herramientas
 
 - [Componentes Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
@@ -33,4 +37,6 @@ Los usuarios deberan de ver el diseño óptimo para el sitio según el tamaño d
 - [Pseudo-classes](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes)
 - [Mobile First](https://developer.mozilla.org/es/docs/Glossary/Mobile_First)
 
-## Este es tu primer reto
+## Puntos extras
+
+- Atrevete y codea tus estilos usando un pre-procesador como Sass, Less o Stylus.
